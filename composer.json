@@ -1,5 +1,5 @@
 {
-	"name": "cp/cpsswbzi",
+	"name": "conpassione/cpsswbzi",
 	"description": "SSWBZI Layout",
 	"type": "typo3-cms-extension",
 	"version": "11.0",
@@ -11,11 +11,11 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Cp\\Cpsswbzi\\": "Classes/"
+			"Conpassione\\Cpsswbzi\\": "Classes/"
 		}
 	},
 	"replace": {
-		"cp/cpsswbzi": "self.version"
+		"conpassione/cpsswbzi": "self.version"
 	},
 	"extra" : {
 		"typo3/cms": {
