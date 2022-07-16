@@ -7,7 +7,9 @@
 	"homepage": "http://www.conpassione.ch",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"typo3/cms-core": "^11"
+		"typo3/cms-core": "^11",
+		"mask/mask": "^7.2",
+		"b13/container": "^1.6"
 	},
 	"autoload": {
 		"psr-4": {
