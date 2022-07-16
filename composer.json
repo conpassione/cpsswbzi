@@ -2,7 +2,7 @@
 	"name": "conpassione/cpsswbzi",
 	"description": "SSWBZI Layout",
 	"type": "typo3-cms-extension",
-	"version": "11.0",
+	"version": "1.0.0",
 	"keywords": ["TYPO3 CMS", "SSWBZI"],
 	"homepage": "http://www.conpassione.ch",
 	"license": "GPL-2.0-or-later",
